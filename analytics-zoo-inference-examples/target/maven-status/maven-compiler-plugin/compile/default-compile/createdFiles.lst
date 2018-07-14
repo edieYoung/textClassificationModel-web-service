@@ -1,0 +1,6 @@
+com/intel/analytics/zoo/inference/examples/TextClassification/TextClassificationModel.class
+com/intel/analytics/zoo/inference/examples/preprocessor/GloveTextProcessing.class
+com/intel/analytics/zoo/inference/examples/TextClassification/Greeting.class
+com/intel/analytics/zoo/inference/examples/TextClassification/GreetingController.class
+com/intel/analytics/zoo/inference/examples/TextClassification/TextClassificationSample.class
+com/intel/analytics/zoo/inference/examples/TextClassification/Application.class
